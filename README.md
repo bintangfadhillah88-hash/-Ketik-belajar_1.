@@ -1,2 +1,2 @@
-# -belajar_1.
+# belajar_1.
 Latihan pertama
